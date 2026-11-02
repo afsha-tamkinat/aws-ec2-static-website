@@ -1,27 +1,17 @@
-# Static Website Hosting Using AWS EC2 and VPC
+
+# AWS EC2 Static Website Hosting
 
 ## Project Overview
-This project focuses on learning how to host a static website using Amazon EC2 and AWS VPC.
+This is my first AWS Cloud project.
 
-## AWS Services
-- Amazon EC2
-- Amazon VPC
-- Security Groups
-- Linux
-- SSH
+I created a simple static website using HTML.
+My goal is to host this website on Amazon EC2.
 
-## Project Objectives
-- Understand EC2 instance deployment.
-- Learn VPC networking.
-- Understand SSH connectivity.
-- Configure network security.
-- Learn static website hosting.
+## Technologies Used
+- AWS EC2
+- HTML
+- GitHub
 
-## Skills
-- AWS Cloud Computing
-- Linux Fundamentals
-- Networking Basics
-- Cloud Infrastructure
-
-## Author
-Afsha Tamkinat
+## Project Status
+Website created successfully on my laptop.
+AWS deployment is the next step.
