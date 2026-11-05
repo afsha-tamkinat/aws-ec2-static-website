@@ -36,5 +36,10 @@ Successfully hosted and accessed my static website through the internet using Am
 - Static website hosting
 - GitHub basics
 
+## Website Screenshot
+
+![My AWS Website](website-screenshot.png)
+
 ## Author
 Afsha Tamkinat
+
